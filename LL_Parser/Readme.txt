@@ -1,3 +1,5 @@
+Note: Code written while being in sleep deprivation and frustration
+
 Operation manual and assumptions:
 
     For input grammar:
