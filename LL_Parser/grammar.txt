@@ -1,0 +1,6 @@
+a b d g h ^
+
+S -> ACB|Cbb|Ba
+A -> da|BC
+B -> g|^
+C -> h|^   

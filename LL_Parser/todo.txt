@@ -1,0 +1,8 @@
+
+	--1. Build a text file parser, which reads the grammar rules from a text file and identifies non-terminals, terminals and production rules and stores 
+	     them. (done)
+	--2. A function which will identify and remove left recursion if possible (done)
+	--3. A function which will identify and remove left factoring if possible 
+	--4. A function which computes first(X) (done) (still doesn't work for some cases)
+	--5. A function which computes follow(X) (done) (still doesn't work for some cases)
+	--6. A function which computes the parsing table (done)
